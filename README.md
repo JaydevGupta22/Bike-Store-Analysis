@@ -39,7 +39,7 @@ This Power BI project provides a detailed analysis of the sales and profit perfo
 6. **Geographic Distribution**:  
    - A map visual displays the **Sum of Revenue by State**, providing insights into regional performance across **North America**, **Europe**, and **Australia**.
 
----
+
 
 #### **Purpose and Insights**:
 This report helps to:  
