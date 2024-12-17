@@ -1,25 +1,27 @@
-### Bike Store Sales Analysis Report
+### **Bike Store Sales Analysis Report**
 
 This Power BI project provides a detailed analysis of the sales and profit performance of a bike store, offering insights into revenue trends, product performance, and geographic contributions.
+![image](https://github.com/user-attachments/assets/6d47ec21-ae82-4600-8734-ba71f3002b34)
+
 
 ---
 
-#### Key Metrics:
-- Total Revenue: 85M  
-- Total Unit Price: 51M  
-- Total Cost: 30M  
-- Total Profit: 32M  
+#### **Key Metrics**:
+- **Total Revenue**: 85M  
+- **Total Unit Price**: 51M  
+- **Total Cost**: 30M  
+- **Total Profit**: 32M  
 
 ---
 
-#### Visualizations and Analysis:
+#### **Visualizations and Analysis**:
 
-1. Revenue and Target Comparison:  
-   - A gauge chart compares the actual revenue of 85M against target values of 128M and 171M, helping measure progress toward goals.
+1. **Revenue and Target Comparison**:  
+   - A gauge chart compares the actual revenue of **85M** against target values of **128M** and **171M**, helping measure progress toward goals.
 
-2. Revenue Trends by Year:  
-   - A line chart highlights annual revenue trends from 2011 to 2016, showcasing growth patterns and year-over-year performance.  
-   - Notable peaks include 2015, where revenue reached 20M.
+2. **Revenue Trends by Year**:  
+   - A line chart highlights annual revenue trends from **2011 to 2016**, showcasing growth patterns and year-over-year performance.  
+   - Notable peaks include 2015, where revenue reached **20M**.
 
 3. **Revenue by Product-Category**:  
    - A pie chart breaks down revenue contributions into three major categories:  
@@ -46,10 +48,3 @@ This report helps to:
 - Visualize geographic revenue distribution to pinpoint key markets.
 
 The analysis enables strategic decision-making to optimize performance and identify areas for improvement.
-
----
-
-
-
-
-
