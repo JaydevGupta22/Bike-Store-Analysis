@@ -1,6 +1,7 @@
 ### **Bike Store Sales Analysis Report**
 
 This Power BI project provides a detailed analysis of the sales and profit performance of a bike store, offering insights into revenue trends, product performance, and geographic contributions.
+
 ![image](https://github.com/user-attachments/assets/6d47ec21-ae82-4600-8734-ba71f3002b34)
 
 
