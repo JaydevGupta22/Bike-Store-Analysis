@@ -39,17 +39,7 @@ This Power BI project provides a detailed analysis of the sales and profit perfo
 6. **Geographic Distribution**:  
    - A map visual displays the **Sum of Revenue by State**, providing insights into regional performance across **North America**, **Europe**, and **Australia**.
 
-
-
-#### **Purpose and Insights**:
-This report helps to:  
-
-
-
-- Identify top-performing products and categories driving revenue.  
-- Track revenue growth over time and compare actuals to targets.  
-- Understand revenue contributions by country and sub-category.  
-- Visualize geographic revenue distribution to pinpoint key markets.
+---
 
 The analysis enables strategic decision-making to optimize performance and identify areas for improvement.
 
@@ -57,6 +47,7 @@ The **Profit Dashboard** provides valuable insights into sales trends and revenu
 
 ![Bike store profit analysis dashboard](https://github.com/user-attachments/assets/91746b2d-9dfc-44bd-b4fb-d3a91325636c)
 
+---
 
 1. **Key Metrics**:  
    - **Total Revenue**: $85M  
@@ -81,4 +72,14 @@ The **Profit Dashboard** provides valuable insights into sales trends and revenu
 7. **Profit by Product Category**:  
    - A pie chart visualizes profit distribution among **Bikes**, **Accessories**, and **Clothing**, with **Bikes** contributing the most at **64%**.
 
-This dashboard effectively compares the store's sales and profit across multiple dimensions, helping identify top-performing products, regions, and trends.
+---
+
+#### **Purpose and Insights**:
+This report helps to:  
+
+
+
+- Identify top-performing products and categories driving revenue.  
+- Track revenue growth over time and compare actuals to targets.  
+- Understand revenue contributions by country and sub-category.  
+- Visualize geographic revenue distribution to pinpoint key markets.
